@@ -8,7 +8,20 @@
 /.idea.CyberSec.iml
 /modules.xml
 /projectSettingsUpdater.xml
+bin/
+.DotSettings.user
+# .NET build output
+bin/
+obj/
 
+
+
+
+# User-specific / debug
+*.user
+*.pdb
+*.dll
+*.log
 # Editor-based HTTP Client requests
 /httpRequests/
 
