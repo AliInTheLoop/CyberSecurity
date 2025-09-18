@@ -1,0 +1,11 @@
+/Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCore/bin/Debug/net9.0/CyberSecCore.deps.json
+/Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCore/bin/Debug/net9.0/CyberSecCore.dll
+/Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCore/bin/Debug/net9.0/CyberSecCore.pdb
+/Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCore/obj/Debug/net9.0/CyberSecCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCore/obj/Debug/net9.0/CyberSecCore.AssemblyInfoInputs.cache
+/Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCore/obj/Debug/net9.0/CyberSecCore.AssemblyInfo.cs
+/Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCore/obj/Debug/net9.0/CyberSecCore.csproj.CoreCompileInputs.cache
+/Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCore/obj/Debug/net9.0/CyberSecCore.dll
+/Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCore/obj/Debug/net9.0/refint/CyberSecCore.dll
+/Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCore/obj/Debug/net9.0/CyberSecCore.pdb
+/Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCore/obj/Debug/net9.0/ref/CyberSecCore.dll
