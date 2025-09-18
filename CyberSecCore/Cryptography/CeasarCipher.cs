@@ -45,7 +45,7 @@ public class CeasarCipher
             }
             else if (char.IsLower(text[i]))
             {
-                var b = (char)(((text[i] + s  -97) % 26) + 97);
+                var b = (char)(((text[i] + s  - 97 + 26) % 26) + 97);
                 result += b;
             }
             else

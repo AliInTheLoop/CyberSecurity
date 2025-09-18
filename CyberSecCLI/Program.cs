@@ -6,6 +6,7 @@ class Program
     {
         CeasarCipherFunction("Testing to see if it works.");
         CeasarCipherFunction("zxyw");
+        CeasarCipherFunction("karmen");
 
         static void CeasarCipherFunction(string text)
         {

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CyberSecCoreTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+175cee9a16a210aec5ec4e7468d5357c54e6ee03")]
 [assembly: System.Reflection.AssemblyProductAttribute("CyberSecCoreTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CyberSecCoreTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

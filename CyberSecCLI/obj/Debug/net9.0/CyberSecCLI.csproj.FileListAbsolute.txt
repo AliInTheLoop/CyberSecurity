@@ -16,3 +16,4 @@
 /Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCLI/obj/Debug/net9.0/CyberSecCLI.pdb
 /Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCLI/obj/Debug/net9.0/CyberSecCLI.genruntimeconfig.cache
 /Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCLI/obj/Debug/net9.0/ref/CyberSecCLI.dll
+/Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCLI/obj/Debug/net9.0/CyberSecCLI.sourcelink.json

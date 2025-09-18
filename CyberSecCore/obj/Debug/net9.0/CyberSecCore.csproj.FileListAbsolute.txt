@@ -9,3 +9,4 @@
 /Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCore/obj/Debug/net9.0/refint/CyberSecCore.dll
 /Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCore/obj/Debug/net9.0/CyberSecCore.pdb
 /Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCore/obj/Debug/net9.0/ref/CyberSecCore.dll
+/Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCore/obj/Debug/net9.0/CyberSecCore.sourcelink.json
