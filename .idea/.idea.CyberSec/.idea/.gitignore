@@ -1,13 +1,46 @@
-# Default ignored files
+# -----------------------
+# JetBrains Rider / IntelliJ
+# -----------------------
+/.idea/
 /shelf/
 /workspace.xml
-# Rider ignored files
 /contentModel.xml
 /.idea.CyberSec.iml
 /modules.xml
 /projectSettingsUpdater.xml
+
 # Editor-based HTTP Client requests
 /httpRequests/
+
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# -----------------------
+# .NET / C#
+# -----------------------
+
+# Build output
+bin/
+obj/
+
+# Rider/VS temporary
+*.user
+*.rsuser
+*.suo
+*.cache
+
+# Debug/Release files
+*.pdb
+*.dll
+*.exe
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+artifacts/
+
+# VS Code (falls du manchmal wechselst)
+.vscode/
