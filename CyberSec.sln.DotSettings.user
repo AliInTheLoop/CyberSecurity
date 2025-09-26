@@ -4,5 +4,6 @@
     &lt;TestId&gt;NUnit3x::D249E8DD-4862-446E-A2F1-F0DF075F4FE8::net9.0::CyberSecCore.Tests.Tests.DecryptShouldShiftLettersByThree&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::D249E8DD-4862-446E-A2F1-F0DF075F4FE8::net9.0::CyberSecCore.Tests.Tests.EncryptShouldShiftLettersByThree&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::D249E8DD-4862-446E-A2F1-F0DF075F4FE8::net9.0::CyberSecCore.Tests.Tests.DecryptShouldShiftLettersBackToNormal&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::D249E8DD-4862-446E-A2F1-F0DF075F4FE8::net9.0::CyberSecCore.Tests.Tests.EncrptRot13&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

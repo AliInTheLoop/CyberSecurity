@@ -100,3 +100,4 @@
 /Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCoreTests/obj/Debug/net9.0/CyberSecCoreTests.pdb
 /Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCoreTests/obj/Debug/net9.0/CyberSecCoreTests.genruntimeconfig.cache
 /Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCoreTests/obj/Debug/net9.0/ref/CyberSecCoreTests.dll
+/Users/plesa/Desktop/codeing/C#/CyberSec/CyberSecCoreTests/obj/Debug/net9.0/CyberSecCoreTests.sourcelink.json

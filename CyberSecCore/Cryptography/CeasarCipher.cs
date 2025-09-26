@@ -1,5 +1,3 @@
-using System.Text;
-
 namespace CyberSecCore.Cryptography;
 
 public class CeasarCipher
@@ -26,7 +24,6 @@ public class CeasarCipher
                 result += text[i];
             }
         }
-
         return result;
     }
 

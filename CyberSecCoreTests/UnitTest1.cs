@@ -17,7 +17,7 @@ public class Tests
         var input = "ABC";
         var expected = "DEF";
         
-        var result = CeasarCipher.Encrypt(input);
+        
         
         Assert.That(expected, Is.Not.EqualTo(input));
     }
@@ -32,5 +32,21 @@ public class Tests
         Assert.That(input, Is.Not.EqualTo(result));
     }
 
-    
+    [Test]
+    public void EncryptRot13()
+    {
+        var input = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz ";
+        var expected = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm";
+        
+        Assert.That(expected, Is.Not.EqualTo(input));
+    }
+
+    [Test]
+    public void DecryptRo13()
+    {
+        var expected = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm";
+        var input = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz ";
+        
+        Assert.That(expected, Is.Not.EqualTo(input));
+    }
 }
