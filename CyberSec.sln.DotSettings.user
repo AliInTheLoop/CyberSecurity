@@ -1,9 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a379d73c_002Dbb4d_002D4780_002Da77a_002D7107462f3d08/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DecryptShouldShiftLettersByThree" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;NUnit3x::D249E8DD-4862-446E-A2F1-F0DF075F4FE8::net9.0::CyberSecCore.Tests.Tests.DecryptShouldShiftLettersByThree&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::D249E8DD-4862-446E-A2F1-F0DF075F4FE8::net9.0::CyberSecCore.Tests.Tests.EncryptShouldShiftLettersByThree&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::D249E8DD-4862-446E-A2F1-F0DF075F4FE8::net9.0::CyberSecCore.Tests.Tests.DecryptShouldShiftLettersBackToNormal&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::D249E8DD-4862-446E-A2F1-F0DF075F4FE8::net9.0::CyberSecCore.Tests.Tests.EncrptRot13&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
