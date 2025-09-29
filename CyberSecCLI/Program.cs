@@ -1,6 +1,5 @@
-﻿using System.Net.Security;
-using CyberSecCore.Cryptography;
-using CyberSecCore;
+﻿using CyberSecCore.Cryptography;
+
 
 class Program
 {
@@ -40,7 +39,7 @@ class Program
         var cipher = Console.ReadLine();
         
         
-        if (input == null) return;
+        if (string.IsNullOrEmpty(input)) return;
         
         var result = input switch
         { 

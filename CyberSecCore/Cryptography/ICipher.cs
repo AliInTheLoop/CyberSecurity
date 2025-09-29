@@ -1,4 +1,4 @@
-namespace CyberSecCore;
+namespace CyberSecCore.Cryptography;
 
 
 public interface ICipher
