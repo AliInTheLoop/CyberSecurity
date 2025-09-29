@@ -1,9 +1,9 @@
 namespace CyberSecCore.Cryptography;
 
 
-public class Rot13
+public class Rot13 : ICipher
 {
-    public static string EncryptRot13(string text)
+    public string Encrypt(string text)
     {
         var result = "";
         var c = 13;
@@ -28,7 +28,7 @@ public class Rot13
         return result;
     }
 
-    public static string DecryptRot13(string text)
+    public  string Decrypt(string text)
     {
         var result = "";
         var c = -13;

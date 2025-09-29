@@ -1,8 +1,8 @@
 namespace CyberSecCore.Cryptography;
 
-public class CeasarCipher
+public class CaesarCipher : ICipher
 {
-    public static string Encrypt(string text)
+    public  string Encrypt(string text)
     {
         var result = "";
         var s = 3;
@@ -27,7 +27,7 @@ public class CeasarCipher
         return result;
     }
 
-    public static string Decrypt(string text)
+    public  string Decrypt(string text)
     {
         var result = "";
 
